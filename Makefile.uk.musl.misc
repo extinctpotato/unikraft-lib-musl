@@ -40,6 +40,7 @@ LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/sys/wait.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/time.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/unistd.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/utmp.h
+LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/lastlog.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/wchar.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/wordexp.h
 LIBMUSL_MISC_HDRS-y += $(LIBMUSL)/include/ar.h
